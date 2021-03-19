@@ -1,2 +1,2 @@
-# SoftUni EntityFrameworkCore
- EF Core Exercises
+# SoftUni Csharp Databases
+Csharp Databases Exercises
