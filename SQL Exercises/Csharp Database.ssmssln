@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL Course", "SQL Course", "{B9997F3C-713A-4782-9D6D-C46B6C72B16B}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Server Scripts1", "SQL Server Scripts1\SQL Server Scripts1.ssmssqlproj", "{79490DB9-80F7-4F5C-ADBD-AD6AED9CD844}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Second Ex Lecture", "Second Ex Lecture\Second Ex Lecture.ssmssqlproj", "{29F7721B-EC19-44C4-A6CA-E080E530A290}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Third Exercise", "Third Exercise\Third Exercise.ssmssqlproj", "{0131FECC-5A62-47F5-992D-744022D2C4D6}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Fourth Ex Lecture", "Fourth Ex Lecture\Fourth Ex Lecture.ssmssqlproj", "{2A1BE4F5-8569-428F-9C26-F5919530ADF9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "First EX Lecture", "First EX Lecture\First EX Lecture.ssmssqlproj", "{AA2CA594-7469-4ACB-86B8-5B9179B3F1E3}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Subqueries and Joins EX", "Subqueries and Joins EX\Subqueries and Joins EX.ssmssqlproj", "{52F1E78C-559B-46D9-B187-BD75DFA440C7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Indices and Data Aggregation EX", "Indices and Data Aggregation EX\Indices and Data Aggregation EX.ssmssqlproj", "{55E05C06-DB3B-4695-9413-176EF8080F67}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Functions and Stored Procedures EX", "Functions and Stored Procedures EX\Functions and Stored Procedures EX.ssmssqlproj", "{B3509ADC-D658-474B-BE3F-DADE2A57CB66}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Exam 2021-13-2", "Exam 2021-13-2\Exam 2021-13-2.ssmssqlproj", "{0AA6BE31-8A39-4770-BB38-CF638350E745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79490DB9-80F7-4F5C-ADBD-AD6AED9CD844}.Default|Default.ActiveCfg = Default
+		{29F7721B-EC19-44C4-A6CA-E080E530A290}.Default|Default.ActiveCfg = Default
+		{0131FECC-5A62-47F5-992D-744022D2C4D6}.Default|Default.ActiveCfg = Default
+		{2A1BE4F5-8569-428F-9C26-F5919530ADF9}.Default|Default.ActiveCfg = Default
+		{AA2CA594-7469-4ACB-86B8-5B9179B3F1E3}.Default|Default.ActiveCfg = Default
+		{52F1E78C-559B-46D9-B187-BD75DFA440C7}.Default|Default.ActiveCfg = Default
+		{55E05C06-DB3B-4695-9413-176EF8080F67}.Default|Default.ActiveCfg = Default
+		{B3509ADC-D658-474B-BE3F-DADE2A57CB66}.Default|Default.ActiveCfg = Default
+		{0AA6BE31-8A39-4770-BB38-CF638350E745}.Default|Default.ActiveCfg = Default
+		{97CF6B99-AB0F-49FE-A042-14A9AA7ACEF3}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{79490DB9-80F7-4F5C-ADBD-AD6AED9CD844} = {B9997F3C-713A-4782-9D6D-C46B6C72B16B}
+		{29F7721B-EC19-44C4-A6CA-E080E530A290} = {B9997F3C-713A-4782-9D6D-C46B6C72B16B}
+		{0131FECC-5A62-47F5-992D-744022D2C4D6} = {B9997F3C-713A-4782-9D6D-C46B6C72B16B}
+		{2A1BE4F5-8569-428F-9C26-F5919530ADF9} = {B9997F3C-713A-4782-9D6D-C46B6C72B16B}
+		{AA2CA594-7469-4ACB-86B8-5B9179B3F1E3} = {B9997F3C-713A-4782-9D6D-C46B6C72B16B}
+		{52F1E78C-559B-46D9-B187-BD75DFA440C7} = {B9997F3C-713A-4782-9D6D-C46B6C72B16B}
+		{55E05C06-DB3B-4695-9413-176EF8080F67} = {B9997F3C-713A-4782-9D6D-C46B6C72B16B}
+		{B3509ADC-D658-474B-BE3F-DADE2A57CB66} = {B9997F3C-713A-4782-9D6D-C46B6C72B16B}
+		{0AA6BE31-8A39-4770-BB38-CF638350E745} = {B9997F3C-713A-4782-9D6D-C46B6C72B16B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EFAC3BB-325E-4742-BDCE-AB227A90A011}
+	EndGlobalSection
+EndGlobal
